@@ -4,7 +4,7 @@
 🎓 **Técnico em Análise e Desenvolvimento de Software (ADS)** pelo SENAC, estou sempre em busca de aprender e desenvolver novas habilidades. Em breve, darei início à minha **graduação em Ciência da Computação** pela Universidade Presbiteriana Mackenzie, aprofundando ainda mais meus conhecimentos no mundo da tecnologia.  
 
 💻 **Habilidades**  
-Sou apaixonado por tecnologia e domino diversas ferramentas e linguagens de programação, incluindo:  
+Sou apaixonado por tecnologia e adquiri conhecimento em diversas ferramentas e linguagens de programação, incluindo:  
 - **Java**: Programação orientada a objetos, desenvolvimento de aplicações desktop e integração com bancos de dados.  
 - **MySQL**: Criação e gerenciamento de bancos de dados, consultas, manipulação e modelagem.  
 - **HTML, CSS e JavaScript**: Desenvolvimento de interfaces web dinâmicas e responsivas.  
