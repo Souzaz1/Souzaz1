@@ -21,8 +21,8 @@ Sou apaixonado por tecnologia e domino diversas ferramentas e linguagens de prog
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 📊 Minhas Estatísticas no GitHub  
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souzazq&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzazq&layout=compact&theme=radical)  
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souzaz1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzaz1&layout=compact&theme=radical)  
 
 ### 🌱 Sempre Aprendendo  
 Estou constantemente expandindo meu conhecimento e explorando novas tecnologias para me tornar um desenvolvedor cada vez mais completo.  
