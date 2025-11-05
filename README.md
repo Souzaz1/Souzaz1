@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gabriel Pereira!  
 
 ### 🚀 Sobre mim  
-Sou **estudante de Ciência da Computação** na **Universidade Presbiteriana Mackenzie** e **Técnico em Análise e Desenvolvimento de Software (ADS)** formado pelo **SENAC**.  
+Sou **estudante de Ciência da Computação** na **Universidade Presbiteriana Mackenzie** e **Técnico em Análise e Desenvolvimento de Sistema (ADS)** formado pelo **SENAC**.  
 Apaixonado por tecnologia e inovação, busco constantemente aprender e evoluir como desenvolvedor, transformando ideias em soluções funcionais e criativas.  
 
 Tenho grande interesse nas áreas de **desenvolvimento de software**, **engenharia de sistemas** e **inteligência artificial**, sempre explorando novas ferramentas e boas práticas de programação.  
