@@ -22,8 +22,9 @@ Durante minha trajetória acadêmica e pessoal, adquiri experiência com diversa
 
 ### 🧠 Atualmente aprendendo  
 - **Estruturas de Dados e Algoritmos Avançados**  
-- **Desenvolvimento Web Full Stack (Node.js e React)**  
-- **Boas práticas de arquitetura de software e padrões de projeto**  
+- **Conceicos fundamentai da COmputação 
+- **Boas práticas de arquitetura de software e padrões de projeto**
+- **Analíse e Ciência de Dados
 
 ---
 
