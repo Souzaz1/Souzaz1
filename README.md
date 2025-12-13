@@ -20,13 +20,11 @@ Durante minha trajetória acadêmica e pessoal, adquiri experiência com diversa
 
 ---
 
-### 🧠 Atualmente aprendendo  
-- **Estruturas de Dados e Algoritmos Avançados**  
-- **Conceicos fundamentai da COmputação 
-- **Boas práticas de arquitetura de software e padrões de projeto**
-- **Analíse e Ciência de Dados
-
----
+### 🧠 Atualmente estudando
+- Fundamentos da Ciência da Computação  
+- Estruturas de Dados e Algoritmos  
+- Boas práticas de desenvolvimento de software (arquitetura e padrões de projeto)  
+- Análise de Dados e Ciência de Dados 
 
 ### 🔧 Ferramentas e Tecnologias  
 <div align="center">
