@@ -18,8 +18,8 @@ Entusiasta por tecnologia, dados e computação, com foco em soluções eficient
 
 ## GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Souzaz1&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzaz1&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Souzaz1&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Souzaz1&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ## Atualmente estudando
